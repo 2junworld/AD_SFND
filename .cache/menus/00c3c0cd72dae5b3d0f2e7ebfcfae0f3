@@ -12,7 +12,7 @@ D/root/.config/menus/applications-merged
 F/root/.config/menus/lxde-applications.menu
 F/etc/xdg/menus/lxde-applications.menu
 F/etc/xdg/menus/debian-menu.menu
-MATE;
+MATE;Unity;
 +Applications
 Applications
 Applications
@@ -69,6 +69,20 @@ galculator
 
 Utility
 
+-yelp.desktop
+Help
+Get help with Unity
+help-browser
+
+5
+
+yelp %u
+2
+66
+
+
+GNOME;GTK;Core;Documentation;Utility
+documentation,information,manual
 -gpicview.desktop
 Image Viewer
 View your images easily
@@ -125,6 +139,34 @@ xarchiver %f
 
 GTK;Archiving;Utility
 GTK,archiver,frontend,compression,zip,bz2,7z,gzip,deb,rpm,arj,lzma,rar,xz
+-gedit.desktop
+gedit
+Edit text files
+accessories-text-editor
+
+5
+Text Editor
+gedit %U
+2
+0
+
+
+GNOME;GTK;Utility;TextEditor
+Text,Editor,Plaintext,Write
+-org.gnome.gedit.desktop
+gedit
+Edit text files
+accessories-text-editor
+
+5
+Text Editor
+gedit %U
+6
+0
+
+
+GNOME;GTK;Utility;TextEditor
+Text,Editor,Plaintext,Write
 
 +Debian
 Debian
