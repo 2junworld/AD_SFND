@@ -94,4 +94,43 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///root/EX.md" added="2021-10-23T15:33:53Z" modified="2021-10-23T15:33:53Z" visited="2021-10-23T15:33:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-23T15:33:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root/SFND_lidar/src/quiz/ransac/ransac2d.cpp" added="2021-10-23T15:45:56Z" modified="2021-10-23T15:45:56Z" visited="2021-10-23T15:45:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-23T15:45:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root/SFND_lidar/src/quiz/ransac/CMakeLists.txt" added="2021-10-23T17:06:58Z" modified="2021-10-23T17:06:58Z" visited="2021-10-23T17:06:58.738900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-cmake"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-10-23T17:06:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

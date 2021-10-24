@@ -62,3 +62,142 @@ sudo apt install gedit -y
 gedit environment.cpp
 git pull
 gedit environment.cpp
+cd ~
+git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
+cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+git ls-files
+git push origin main
+git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
+ls -al
+cd SFND_Lidar_Obstacle_Detection
+ls -al
+cd ~
+sudo apt install libpcl-dev
+cd ~/SFND_Lidar_Obstacle_Detection
+mkdir build && cd build
+cmake ..
+make
+cmake ..
+make
+./environment
+gedit environment.cpp
+cd ~
+gedit environment.cpp
+cd /root/SFND_Lidar_Obstacle_Detection/src
+gedit environment.cpp
+cd ..
+cd build
+cmake ..
+make
+./environment
+cd ..
+cd src
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+cmake ..
+make
+./environment
+cmake ..
+make
+./environment
+cmake ..
+make
+./environment
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+gedit processPointClouds.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+cmake ..
+make
+gedit environment.cpp
+cmake ..
+make
+./environment
+gedit environment.cpp
+make
+./environment
+gedit environment.cpp
+gedit processPointClouds.cpp
+make
+cd ~
+git pull
+git push origin main
+git init
+git add.
+git add .
+git commit -m "Second Commit: Segmenting Plane"
+git push origin main
+git pull
+git init
+git add
+git add .
+git remote
+git push origin master
+git push origin main
+git pull
+cd AD_SFND
+git init
+ls -al
+git status
+git add .
+git push origin main
+cd AD_SFND
+git init
+gtit add .
+git add .
+git commit -m "new setting"
+git pull
+cd SFND_lidar/src/quiz/ransac
+cd build/
+ls
+mkdir build && cd build
+cmake ..
+make
+./environment
+./ransac2d
+ls
+./quizRansac
+cd SFND_lidar/src/quiz/ransac/build
+./quizRansac
+cmake ..
+make
+./quizRansac
